@@ -85,4 +85,5 @@ Do you wanna load another file(y/n):
 ```
 4) choose 3 to exist the program
 
-\* Please ensure that you enter the equation in the correct format otherwise it will cause an error. The format is   d.d [+-*/] d.d = 
+\* Please ensure that you enter the equation in the correct format otherwise it will cause an error. The format is 
+d.d [+-*/] d.d = 
